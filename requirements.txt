@@ -1,0 +1,4 @@
+requests
+mechanize
+facebook-sdk
+bs4
